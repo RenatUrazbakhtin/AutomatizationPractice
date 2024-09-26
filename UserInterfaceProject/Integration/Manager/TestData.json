@@ -1,0 +1,7 @@
+{
+  "timer": "00:00:00",
+  "pictureName": "./pictureCat.jpg",
+  "interestsQuantity": 3,
+  "expectUploadOpenedTime": "00:00:05",
+  "expectUploadClosedTime": "00:00:07"
+}
