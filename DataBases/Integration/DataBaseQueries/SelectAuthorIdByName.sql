@@ -1,0 +1,1 @@
+﻿SELECT author.id FROM author WHERE author.name = @author_name;

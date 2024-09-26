@@ -1,0 +1,7 @@
+﻿{
+  "server": "MySQL-5.7",
+  "uid": "root",
+  "pwd": "",
+  "database": "union_reporting",
+  "url": "https://jsonplaceholder.typicode.com/"
+}

@@ -1,0 +1,1 @@
+﻿SELECT * FROM test WHERE test.id LIKE @random LIMIT @limit;

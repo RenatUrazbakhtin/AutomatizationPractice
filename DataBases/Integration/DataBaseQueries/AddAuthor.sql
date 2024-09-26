@@ -1,0 +1,1 @@
+﻿INSERT INTO author (name, login, email) VALUES (@author_name, @login, @email);

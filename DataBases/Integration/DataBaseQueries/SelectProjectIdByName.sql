@@ -1,0 +1,1 @@
+﻿SELECT project.id FROM project WHERE project.name = @project_name;

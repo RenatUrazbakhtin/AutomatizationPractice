@@ -1,0 +1,1 @@
+﻿UPDATE test SET env = 'Updated' WHERE id = @test_id;

@@ -1,0 +1,1 @@
+﻿INSERT INTO project (name) VALUES (@project_name);

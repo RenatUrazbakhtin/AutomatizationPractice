@@ -1,0 +1,15 @@
+﻿{
+  "browser": "chrome",
+  "env": "RenatU",
+  "userName": "Renat",
+  "login": "renatlog",
+  "email": "renat@mail.ru",
+  "project": "Databases",
+  "buildNumber": 2,
+  "format": "{0:yyyy-MM-dd HH:mm:ss}",
+  "regularRandom": "%{value}%",
+  "updatedEnv": "Updated",
+  "logContent": "---------",
+  "testsQuantity": 10,
+  "httpTest": "/posts/"
+}

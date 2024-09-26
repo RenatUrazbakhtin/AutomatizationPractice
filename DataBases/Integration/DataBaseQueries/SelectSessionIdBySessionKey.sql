@@ -1,0 +1,1 @@
+﻿SELECT session.id FROM session WHERE session.session_key = @session_key;

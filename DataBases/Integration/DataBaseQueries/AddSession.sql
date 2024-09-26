@@ -1,0 +1,1 @@
+﻿INSERT INTO session (session_key, build_number) VALUES (@session_key, @build_number)
